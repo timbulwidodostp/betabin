@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p betabin Beta-binomial regression Use betabin With STATA 18
