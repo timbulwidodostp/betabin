@@ -1,5 +1,17 @@
-d 'DEA': Data envelopment analysis
+d 'betabin': Beta-binomial regression Use betabin With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f betabin.ado
+f betabin.sthlp
+f betabin_llf.ado
+f betabin_p.ado
+f betabin_postestimation.sthlp
+f zib.ado
+f zib.sthlp
+f zib_llf.ado
+f zib_p.ado
+f zib_postestimation.sthlp
+f zibbin.ado
+f zibbin.sthlp
+f zibbin_llf.ado
+f zibbin_p.ado
+f zibbin_postestimation.sthlp
