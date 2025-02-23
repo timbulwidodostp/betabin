@@ -1,6 +1,8 @@
 # betabin
 Beta-binomial regression Use betabin With STATA 18
 
+https://www.youtube.com/watch?v=j517v5xNKMg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
